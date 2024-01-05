@@ -1,7 +1,6 @@
-<figure style="border-radius: 10px;">
-  <img src="https://percheung.github.io/blogImg/202401030036301.jpg" alt="叶惠美" />
-  <figcaption>叶惠美</figcaption>
-</figure>Hi, I’m @PerCheung
+<img src="https://percheung.github.io/blogImg/202401030036301.jpg" style="width:20%" alt="" />
+  
+👋🏻 I’m @PerCheung
 
 👀 I’m interested in programming
 
