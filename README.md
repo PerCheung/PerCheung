@@ -1,5 +1,3 @@
-<img src="https://percheung.github.io/blogImg/202401030036301.jpg" style="width:20%" alt="" />
-  
 👋🏻 I’m @PerCheung
 
 👀 I’m interested in programming
