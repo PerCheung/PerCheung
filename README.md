@@ -1,4 +1,4 @@
-👋🏻 Hi, I’m @PerCheung
+<img src="https://percheung.github.io/blogImg/202401030036301.jpg" alt="叶惠美" style="border-radius: 10px;width:20px" />Hi, I’m @PerCheung
 
 👀 I’m interested in programming
 
